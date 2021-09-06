@@ -13,7 +13,6 @@ const rates = {
 const input = document.querySelector('#input'),
   result = document.querySelector('#result'),
   selectLists = document.querySelectorAll('.select'),
-  //selectList = document.querySelector('.select'),
   button = document.querySelector('button'),
   select = document.querySelector('#select');
 
